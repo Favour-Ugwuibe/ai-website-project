@@ -1,0 +1,96 @@
+PROMPT 1
+
+Design a premium sticky navigation bar for WanderNest Travels. Include a travel logo, dropdown menus for Destinations and Tours, hover animations, responsive layout, and luxury travel styling using blue and beige tones.
+
+PROMPT 2
+
+Create a luxurious travel hero section with a large destination image, bold headline, descriptive text, and two call-to-action buttons. The design should inspire adventure, exploration, and premium travel experiences.
+
+PROMPT3
+
+Create a visually rich destination section with six travel destination cards. Each card should contain a large image, destination name, short description, hover effect, and premium styling.
+
+PROMPT 4
+
+Create a premium tour packages section for WanderNest Travels. Display three luxury tour packages with large images, duration, pricing, destination details, and a booking button. Use modern travel website styling with hover animations and card layouts.
+
+PROMPT 5
+
+Create a travel agency statistics section highlighting company achievements. Display key figures such as happy travelers, destinations, years of experience, and travel experts. Use large typography and luxury styling.
+
+PROMPT6
+
+Create a travel gallery using a responsive image grid. Display luxury resorts, beaches, cities, mountains, and cultural destinations. Use rounded corners, shadows, and hover zoom effects.
+
+PROMPT 7
+
+Create a testimonials section displaying reviews from travelers. Use modern cards with profile images, customer names, ratings, and travel experiences.
+
+PROMPT 8
+
+Create a modern newsletter subscription section for WanderNest Travels.
+
+The section should encourage visitors to subscribe for travel deals, destination updates, and exclusive offers.
+
+Requirements:
+- Large heading
+- Short descriptive text
+- Email input field
+- Subscribe button
+- Centered layout
+- Rounded corners
+- Modern spacing
+- Responsive design
+- Use the WanderNest color palette:
+  #81A6C6
+  #A8C6D5
+  #E2D5C2
+  #CBBEAE
+- Include comments in the HTML code.
+- Use Tailwind CSS styling.
+- Maintain a premium luxury travel aesthetic.
+
+
+PROMPT 9
+
+Create a professional sticky footer for WanderNest Travels.
+
+The footer should include:
+
+- Company logo and description
+- Quick navigation links
+- Popular travel destinations
+- Contact information
+- Social media icons
+- Copyright information
+
+Requirements:
+- Responsive layout
+- Four-column design on desktop
+- Single-column design on mobile
+- Consistent branding
+- Luxury travel styling
+- Use the WanderNest color palette:
+  #81A6C6
+  #A8C6D5
+  #E2D5C2
+  #CBBEAE
+- Include comments throughout the code.
+- Use HTML and Tailwind CSS.
+- Maintain a clean and modern travel agency appearance.
+
+Prompt 10
+
+Create an About Us page for PabloTours.
+
+Requirements:
+- Professional travel agency design
+- Hero section
+- Company story section
+- Mission and Vision section
+- Meet the Team section
+- Company achievements section
+- Call-to-action section
+- Responsive layout
+- Tailwind CSS styling
+- Use the PabloTours color palette
