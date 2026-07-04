@@ -1,1 +1,20 @@
 @import "tailwindcss";
+
+.nav-link{
+    padding:12px 18px;
+    border-radius:12px;
+    font-weight:500;
+    transition:all .3s ease;
+    color:black;
+}
+
+.nav-link:hover{
+    background:#EEF5FA;
+    color:#81A6C6;
+}
+
+.active-link{
+    background:#EEF5FA;
+    color:#81A6C6;
+    font-weight:700;
+}

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="./css/output.css">
+    <link rel="stylesheet" href="./css/output.css">  
 </head>
 <body>
 <style>
@@ -31,26 +31,30 @@ overflow-x:hidden;
 
 <!-- Desktop Navigation -->
 
-<ul class="flex flex-wrap justify-center gap-3 md:gap-8 font-medium text-sm md:text-base px-4">
+<ul class="flex flex-wrap justify-center gap-3 md:gap-8 font-medium">
 
-<li><a href="index.html">Home</a></li>
+<li>
+<a href="index.html" class="nav-link active">
+Home
+</a>
+</li>
 
 <li class="group relative">
 
-<a href="#">Destinations ▼</a>
+<a href="#" class="nav-link">
+Destinations ▼
+</a>
 
 <ul class="absolute hidden group-hover:block bg-white shadow-lg rounded-xl w-52">
 
 <li>
-<a href="destinations.html"
-class="block p-3 hover:bg-[#E2D5C2]">
+<a href="destinations.html" class="block p-3 hover:bg-[#E2D5C2]">
 Popular Destinations
 </a>
 </li>
 
 <li>
-<a href="luxury.html"
-class="block p-3 hover:bg-[#E2D5C2]">
+<a href="luxury.html" class="block p-3 hover:bg-[#E2D5C2]">
 Luxury Escapes
 </a>
 </li>
@@ -61,20 +65,20 @@ Luxury Escapes
 
 <li class="group relative">
 
-<a href="#">Tours ▼</a>
+<a href="#" class="nav-link">
+Tours ▼
+</a>
 
 <ul class="absolute hidden group-hover:block bg-white shadow-lg rounded-xl w-52">
 
 <li>
-<a href="packages.html"
-class="block p-3 hover:bg-[#E2D5C2]">
+<a href="packages.html" class="block p-3 hover:bg-[#E2D5C2]">
 Tour Packages
 </a>
 </li>
 
 <li>
-<a href="adventure.html"
-class="block p-3 hover:bg-[#E2D5C2]">
+<a href="adventure.html" class="block p-3 hover:bg-[#E2D5C2]">
 Adventure Tours
 </a>
 </li>
@@ -83,13 +87,12 @@ Adventure Tours
 
 </li>
 
-<li><a href="gallery.html">Gallery</a></li>
-<li><a href="blog.html">Blog</a></li>
-<li><a href="about.html">About</a></li>
-<li><a href="contact.html">Contact</a></li>
+<li><a href="gallery.html" class="nav-link active-link">Gallery</a></li>
+<li><a href="blog.html" class="nav-link active-link">Blog</a></li>
+<li><a href="about.html" class="nav-link active-link">About</a></li>
+<li><a href="contact.html" class="nav-link active-link">Contact</a></li>
 
 </ul>
-
 </nav>
 
 </header>
@@ -229,7 +232,7 @@ Explore beaches, resorts and cultural landmarks.
 &#8358;1,299,000
 </p>
 
-<button class="mt-5 bg-[#81A6C6] text-white px-6 py-3 rounded-full">
+<button class="mt-5 bg-[#81A6C6] text-white px-6 py-3 rounded-full hover:scale-105 transition">
 Book Now
 </button>
 
@@ -261,7 +264,7 @@ Enjoy breathtaking views and luxury accommodation.
 &#8358;3,400,000
 </p>
 
-<button class="mt-5 bg-[#81A6C6] text-white px-6 py-3 rounded-full">
+<button class="mt-5 bg-[#81A6C6] text-white px-6 py-3 rounded-full hover:scale-105 transition">
 Book Now
 </button>
 
@@ -293,7 +296,7 @@ Experience luxury shopping and desert adventures.
 &#8358;2,099,000
 </p>
 
-<button class="mt-5 bg-[#81A6C6] text-white px-6 py-3 rounded-full">
+<button class="mt-5 bg-[#81A6C6] text-white px-6 py-3 rounded-full hover:scale-105 transition">
 Book Now
 </button>
 
@@ -483,25 +486,88 @@ Discover the world with confidence.
 </p>
 </div>
 
+<!-- Quick Links -->
 <div>
+
 <h4 class="font-bold mb-4">Quick Links</h4>
-<ul>
-<li>Home</li>
-<li>Tours</li>
-<li>Gallery</li>
-<li>Contact</li>
+
+<ul class="space-y-3">
+
+<li>
+<a href="index.html" class="hover:text-[#81A6C6] transition">
+Home
+</a>
+</li>
+
+<li>
+<a href="destinations.html" class="hover:text-[#81A6C6] transition">
+Destinations
+</a>
+</li>
+
+<li>
+<a href="packages.html" class="hover:text-[#81A6C6] transition">
+Tours
+</a>
+</li>
+
+<li>
+<a href="gallery.html" class="hover:text-[#81A6C6] transition">
+Gallery
+</a>
+</li>
+
+<li>
+<a href="blog.html" class="hover:text-[#81A6C6] transition">
+Blog
+</a>
+</li>
+
+<li>
+<a href="about.html" class="hover:text-[#81A6C6] transition">
+About
+</a>
+</li>
+
+<li>
+<a href="contact.html" class="hover:text-[#81A6C6] transition">
+Contact
+</a>
+</li>
+
 </ul>
+
 </div>
 
 <div>
 <h4 class="font-bold mb-4">Destinations</h4>
-<ul>
-<li>Bali</li>
-<li>Dubai</li>
-<li>Santorini</li>
-<li>Maldives</li>
+<ul class="space-y-3">
+
+<li>
+<a href="destinations.html" class="hover:text-[#81A6C6] transition">
+Bali
+</a>
+</li>
+
+<li>
+<a href="destinations.html" class="hover:text-[#81A6C6] transition">
+Dubai
+</a>
+</li>
+
+<li>
+<a href="destinations.html" class="hover:text-[#81A6C6] transition">
+Santorini
+</a>
+</li>
+
+<li>
+<a href="destinations.html" class="hover:text-[#81A6C6] transition">
+Maldives
+</a>
+</li>
+
 </ul>
-</div>
 
 <div>
 <h4 class="font-bold mb-4">Contact</h4>

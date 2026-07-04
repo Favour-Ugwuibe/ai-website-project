@@ -1,96 +1,325 @@
-PROMPT 1
+# PabloTours Website Prompt Engineering Documentation
 
-Design a premium sticky navigation bar for WanderNest Travels. Include a travel logo, dropdown menus for Destinations and Tours, hover animations, responsive layout, and luxury travel styling using blue and beige tones.
+Prompt 1
 
-PROMPT 2
+Create a modern, premium travel agency website called **PabloTours** using HTML and Tailwind CSS. The website should contain 10 interconnected pages and present a luxury travel experience. Use a clean, elegant interface with a soft blue and beige color palette. Ensure the design is responsive and visually appealing on desktop, tablet, and mobile devices.
 
-Create a luxurious travel hero section with a large destination image, bold headline, descriptive text, and two call-to-action buttons. The design should inspire adventure, exploration, and premium travel experiences.
 
-PROMPT3
 
-Create a visually rich destination section with six travel destination cards. Each card should contain a large image, destination name, short description, hover effect, and premium styling.
+Prompt 2 
 
-PROMPT 4
-
-Create a premium tour packages section for WanderNest Travels. Display three luxury tour packages with large images, duration, pricing, destination details, and a booking button. Use modern travel website styling with hover animations and card layouts.
-
-PROMPT 5
-
-Create a travel agency statistics section highlighting company achievements. Display key figures such as happy travelers, destinations, years of experience, and travel experts. Use large typography and luxury styling.
-
-PROMPT6
-
-Create a travel gallery using a responsive image grid. Display luxury resorts, beaches, cities, mountains, and cultural destinations. Use rounded corners, shadows, and hover zoom effects.
-
-PROMPT 7
-
-Create a testimonials section displaying reviews from travelers. Use modern cards with profile images, customer names, ratings, and travel experiences.
-
-PROMPT 8
-
-Create a modern newsletter subscription section for WanderNest Travels.
-
-The section should encourage visitors to subscribe for travel deals, destination updates, and exclusive offers.
+Design the branding for PabloTours.
 
 Requirements:
-- Large heading
-- Short descriptive text
-- Email input field
-- Subscribe button
-- Centered layout
-- Rounded corners
-- Modern spacing
-- Responsive design
-- Use the WanderNest color palette:
-  #81A6C6
-  #A8C6D5
-  #E2D5C2
-  #CBBEAE
-- Include comments in the HTML code.
-- Use Tailwind CSS styling.
-- Maintain a premium luxury travel aesthetic.
+
+* Airplane logo
+* Company name: PabloTours
+* Professional typography
+* Brand colors:
+
+  * #81A6C6
+  * #A8C6D5
+  * #E2D5C2
+  * #CBBEAE
+* Luxury travel aesthetic
 
 
-PROMPT 9
+Prompt 3
 
-Create a professional sticky footer for WanderNest Travels.
-
-The footer should include:
-
-- Company logo and description
-- Quick navigation links
-- Popular travel destinations
-- Contact information
-- Social media icons
-- Copyright information
+Create a premium sticky navigation bar.
 
 Requirements:
-- Responsive layout
-- Four-column design on desktop
-- Single-column design on mobile
-- Consistent branding
-- Luxury travel styling
-- Use the WanderNest color palette:
-  #81A6C6
-  #A8C6D5
-  #E2D5C2
-  #CBBEAE
-- Include comments throughout the code.
-- Use HTML and Tailwind CSS.
-- Maintain a clean and modern travel agency appearance.
 
-Prompt 10
+* Sticky header
+* Company logo
+* Home
+* Destinations (dropdown)
+* Tours (dropdown)
+* Gallery
+* Blog
+* About
+* Contact
+* Hover effects
+* Active page styling
+* Responsive layout
+* Tailwind CSS
+* Include HTML comments.
 
-Create an About Us page for PabloTours.
+
+
+Prompt 4 
+
+Create a full-screen luxury travel hero section.
 
 Requirements:
-- Professional travel agency design
-- Hero section
-- Company story section
-- Mission and Vision section
-- Meet the Team section
-- Company achievements section
-- Call-to-action section
-- Responsive layout
-- Tailwind CSS styling
-- Use the PabloTours color palette
+
+* Large destination background image
+* Inspiring headline
+* Supporting description
+* "Explore Tours" button
+* "Learn More" button
+* Overlay for readability
+* Responsive design
+* Tailwind CSS
+
+
+
+Prompt 5 
+
+Create the main homepage content.
+
+Include:
+
+* Popular Destinations
+* Featured Tour Packages
+* Company Statistics
+* Travel Gallery
+* Testimonials
+* Newsletter Subscription
+* Sticky footer
+
+Use responsive cards, hover animations and consistent spacing.
+
+
+
+Prompt 6 
+
+Create a Destinations page.
+
+Requirements:
+
+* Hero banner
+* Six destination cards
+* Large destination images
+* Short descriptions
+* Hover animations
+* Premium travel styling
+* Responsive layout
+
+
+
+Prompt 7 
+
+Create a Luxury Escapes page.
+
+Include:
+
+* Luxury hero banner
+* Private Villas
+* Five-Star Resorts
+* Luxury Cruises
+* VIP Travel Experiences
+* Premium booking section
+* Elegant card layout
+
+
+
+Prompt 8
+
+Create a Tour Packages page.
+
+Include:
+
+* Hero section
+* Six travel package cards
+* Pricing
+* Duration
+* Book Now buttons
+* Special offers
+* Why Choose Us section
+* Premium responsive design
+
+
+
+Prompt 9
+
+Create an Adventure Tours page.
+
+Include:
+
+* Adventure hero section
+* Hiking
+* Safari
+* Scuba Diving
+* Camping
+* Desert Safari
+* Zipline
+* Safety section
+* Booking call-to-action
+
+
+
+Prompt 10 
+
+Create an About Us page.
+
+Requirements:
+
+* Hero section
+* Company story
+* Mission
+* Vision
+* Meet the Team
+* Company achievements
+* Statistics
+* Call-to-action
+* Responsive layout
+
+
+
+Prompt 11 
+
+Create a Travel Gallery page.
+
+Requirements:
+
+* Hero banner
+* Responsive image gallery
+* Luxury destinations
+* Travel moments
+* Hover zoom effect
+* Modern grid layout
+
+
+
+Prompt 12 
+
+Create a Travel Blog page.
+
+Requirements:
+
+* Hero section
+* Featured article
+* Recent articles
+* Travel tips
+* Newsletter section
+* Responsive cards
+
+
+
+Prompt 13 
+
+Create a Testimonials page.
+
+Requirements:
+
+* Hero banner
+* Customer reviews
+* Star ratings
+* Traveler stories
+* Statistics
+* Call-to-action
+* Premium card layout
+
+
+
+Prompt 14 
+
+Create a Contact and Booking page.
+
+Include:
+
+* Contact hero
+* Contact information
+* Booking form
+* FAQ
+* Office location
+* Social media
+* Final call-to-action
+
+
+
+Prompt 15 
+
+Improve the footer.
+
+Requirements:
+
+* Company logo
+* Company description
+* Functional Quick Links
+* Popular Destinations
+* Contact information
+* Copyright
+* Responsive layout
+* Hover effects
+
+
+
+Prompt 16 
+
+Improve the navigation.
+
+Requirements:
+
+* Functional dropdown menus
+* Working navigation links
+* Hover animations
+* Active page indicator
+* Responsive behaviour
+* Sticky navigation
+
+
+
+Prompt 17 
+
+Improve the entire website for mobile devices.
+
+Requirements:
+
+* Responsive typography
+* Responsive images
+* Responsive buttons
+* Prevent horizontal scrolling
+* Proper spacing
+* Mobile-friendly layouts
+* Optimized navigation
+
+
+
+Prompt 18 
+
+Improve the user experience.
+
+Requirements:
+
+* Smooth hover animations
+* Better button styling
+* Improved spacing
+* Better visual hierarchy
+* Consistent card styling
+* Improved readability
+* Premium luxury feel
+
+
+
+Prompt 19
+
+Review the complete PabloTours website.
+
+Requirements:
+
+* Ensure all pages are connected
+* Verify every navigation link
+* Ensure dropdown menus function correctly
+* Verify responsiveness
+* Optimize consistency
+* Improve accessibility
+* Maintain branding across all pages
+
+
+
+Prompt 20 
+
+Perform a complete review of the PabloTours website.
+
+Requirements:
+
+* HTML validation
+* Responsive layout check
+* Consistent color palette
+* Working buttons
+* Functional navigation
+* Sticky header and footer
+* Clean code with comments
+* Ready for GitHub deployment and final submission.
